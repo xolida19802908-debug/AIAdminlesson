@@ -1,0 +1,6 @@
+{
+  "name": "AI Admin",
+  "description": "Your business. Your clients. Your AI administrator. Universal business management platform and proactive assistant for independent professionals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
